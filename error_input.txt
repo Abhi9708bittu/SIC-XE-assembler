@@ -1,0 +1,11 @@
+************PASS1************
+Line: 10 : Invalid OPCODE. Found EXTDEF
+Line: 15 : Invalid OPCODE. Found EXTREF
+Line: 120 : Invalid OPCODE. Found CSECT
+Line: 125 : Invalid OPCODE. Found EXTREF
+Line: 205 : Duplicate symbol for 'MAXLEN'. Previously defined at 01000
+Line: 210 : Invalid OPCODE. Found CSECT
+Line: 215 : Invalid OPCODE. Found EXTREF
+
+
+************PASS2 : ASSEMBLER ************
