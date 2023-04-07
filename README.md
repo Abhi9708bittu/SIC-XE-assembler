@@ -1,2 +1,2 @@
-# SIC-XE-assembler
+# SIC/XE Assembler
 implemented in c++ language
