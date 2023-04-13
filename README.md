@@ -1,4 +1,4 @@
-# SIC/XE Assembler
+# SIC/XE Assembler by Abhishek Raj,IITR
 implemented in c++ language
  PASS 1-
   pass1.cpp is the first pass of the assembler, where it reads the input source file and generates an intermediate file along with an error file. It checks each source file line to see if it is a comment line. If it is a comment, the assembler writes it to the intermediate file and updates the line number. If not a comment, the assembler checks if it is a START opcode and updates the start address and LOCCTR accordingly.
