@@ -168,7 +168,6 @@ bool if_all_num(string x){
 
 
 
-// Akshat Agarwal
 void readByteOperand(string line,int& index,bool& status,string& data){
   data = "";
   status = true;
@@ -206,7 +205,7 @@ void readByteOperand(string line,int& index,bool& status,string& data){
 // the first flag bit .
 
 
-// Class AkshatAkshatAbhiEvaluatedString contains the function
+
 // -peek() :  returns the value at present index
 // -get() :  returns the value at the given index and then increments the index by one
 // -number() : returns the value of the input string in integer format
